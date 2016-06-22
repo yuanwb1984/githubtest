@@ -19,6 +19,7 @@ alias ls="ls --show-control-chars --color"
 3、删除文件
 4、克隆了SyncY，貌似成功了
 5、README文件首字#在网页里会有粗体和链接
+6、README文件在网页里不换行，堆成一堆，
 2016.6.21
 1、安装 https://git-for-windows.github.io/
 时有一个选择是使用ssh链接还是plink链接，因为常用putty，没多想的选择了plink，但是教程上只讲到ssh密钥创建，并未牵扯到plink，以至于push卡在确认密钥步骤等不到相应。翻了几个教程，用puttygen重新保存了ssh的密钥，用pageant add key之后正常。
